@@ -4,4 +4,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #ryaohu/haroldli-xiaoya-tvbox:latest
---platform=linux/amd64 quay.io/ansible/awx_devel:17.0.1
+#--platform=linux/amd64 quay.io/ansible/awx_devel:17.0.1
+abesesr/awx
