@@ -5,4 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #--platform=linux/amd64 quay.io/ansible/awx_devel:17.0.1
-github.com/loong576/ansible-awx:latest
+neo4j:5.20.0-community
